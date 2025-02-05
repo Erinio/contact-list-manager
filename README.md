@@ -141,3 +141,4 @@ deactivate
 ## Note for Testing
 
 This application contains intentionally introduced bugs for educational purposes in software testing. These bugs are distributed across different components of the application.
+# Trigger workflow
